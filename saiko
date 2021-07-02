@@ -1,0 +1,23 @@
+SIGNING_KEY=""
+ACCOUNTS=[
+""
+]
+VERSION="2.2.0"
+
+[DOCUMENTATION]
+ORG_NAME="SAIKO Development Foundation"
+ORG_PHYSICAL_ADDRESS="United States"
+
+[[PRINCIPALS]]
+name="SAIKO Token"
+
+[[CURRENCIES]]
+code="SIKO"
+issuer=""
+display_decimals=2
+name="SAIKO Token"
+desc="SHIB is an experiment in decentralized spontaneous community building. Nicknamed the DOGECOIN KILLER, this token will outpace Dogecoin in a small amount of time (relatively speaking)."
+conditions="There will only ever be 100,000,000,000 SIKO in existence."
+image="https://tomlhosting.com/storage/314/IS8FgiuS0nSGBrWmtVW2PXXqoLFV56DRaseZnQPo.png"
+fixed_number=100000000000
+is_asset_anchored=false
